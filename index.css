@@ -1,0 +1,34 @@
+h1 { color: blue;
+    font-size: 26px;
+    text-size-adjust: 10;
+    text-align: center;
+}
+
+h2 { color:rgb(37, 195, 223);
+    font-size: 26px;
+    text-size-adjust: 10;
+    text-align: center;
+}
+
+h3 { color:blue;
+    font-size: 22px;
+    text-size-adjust: 10;
+    text-align: center;
+}
+p {
+    color: black;
+    text-align: center;
+    font-size: 22;
+}
+
+ul{
+    list-style: square;
+    text-align: center;
+    list-style-position: inside;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
